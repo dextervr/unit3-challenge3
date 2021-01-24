@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/proto33.unity
+  isLoaded: 1
+  isActive: 1
